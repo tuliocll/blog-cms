@@ -4,7 +4,8 @@
   "info": {
     "singularName": "author",
     "pluralName": "authors",
-    "displayName": "author"
+    "displayName": "author",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -18,13 +19,12 @@
       "type": "text"
     },
     "image": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ],
       "type": "media",
-      "multiple": true
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
     },
     "active": {
       "type": "boolean"
