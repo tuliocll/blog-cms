@@ -5,7 +5,7 @@ Link do curso: https://www.youtube.com/watch?v=gOct9LOzcs0&list=PL-YvIP3evR4GkA-
 
 Para acessar a versão em produção e usar em seu projeto use essa URL:
 
-`https://cms-blog-tutorial.herokuapp.com/api`
+`https://blog-cms-production-e451.up.railway.app/api`
 
 ## Rotas disponiveis:
 
